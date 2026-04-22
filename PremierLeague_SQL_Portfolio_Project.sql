@@ -37,7 +37,7 @@
 SELECT *
 FROM pl_tables
 ORDER BY season_end_year, position
-LIMIT 20;
+LIMIT 22;
 
 -- How many seasons and teams are in the dataset?
 SELECT
