@@ -33,11 +33,11 @@ Time period: 1993–2024
 Analysis Performed
 
 SQL
-- Aggregated team performance across seasons
-- Identified title winners and top 4 finishes
-- Analysed points distribution and goal statistics
-- Calculated year-over-year changes in points and position
-- Evaluated league competitiveness using points gaps
+- Identified title winners and how many titles each club has won
+- Found the best and worst single seasons by points and goals
+- Analysed top 4 finishes and relegation trends across 30 seasons
+- Compared clubs head to head using self-joins (e.g. champion vs runner-up each season)
+- Filtered and aggregated data to answer specific questions about club and season performance
 
 Tableau
 - Built interactive dashboards to explore team performance
@@ -47,7 +47,7 @@ Tableau
 
 ------
 
-Tableau Dashboard: (https://public.tableau.com/views/PLProject_17772322221680/PLProject?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Tableau Dashboard: https://public.tableau.com/views/PLProject_17772322221680/PLProject?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ------
 
