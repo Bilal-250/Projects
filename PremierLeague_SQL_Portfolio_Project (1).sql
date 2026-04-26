@@ -1,8 +1,7 @@
-/*
 ==========================================================
   PREMIER LEAGUE DATA EXPLORATION (1993 - 2024)
   SQL Portfolio Project
-  Author: [Your Name]
+  Bilal Mohammed
   
   Dataset: Premier League final standings for every season
            from 1992/93 to 2023/24.
@@ -21,7 +20,6 @@
     points           -- total points
     notes            -- European/relegation qualification notes
 ==========================================================
-*/
 
 
 -- ============================================================
