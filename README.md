@@ -16,9 +16,9 @@ Objectives
 ------
 
 Tools
-CSV / Excel – Data handling and export
-SQL – Data querying, cleaning, and transformation
-Tableau – Dashboard creation and data visualisation
+- CSV / Excel – Data handling and export
+- SQL – Data querying, cleaning, and transformation
+- Tableau – Dashboard creation and data visualisation
 
 ------
 
