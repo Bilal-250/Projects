@@ -1,6 +1,6 @@
 ==========================================================
   PREMIER LEAGUE DATA EXPLORATION (1993 - 2024)
-  SQL Portfolio Project
+  SQL Project
   Bilal Mohammed
   
   Dataset: Premier League final standings for every season
